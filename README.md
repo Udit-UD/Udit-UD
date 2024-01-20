@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Udit Gupta, a Full Stack Developer with over [X] years of dedicated work in the software development industry. My extensive journey in this field has afforded me the privilege of contributing to a diverse array of projects, spanning the creation of responsive front-end interfaces to the construction of resilient and scalable back-end systems. My commitment to excellence drives me to remain at the forefront of emerging technologies and industry best practices, ensuring the consistent delivery of top-notch solutions.
+I'm Udit Gupta, a Full Stack Developer. My extensive journey in this field has afforded me the privilege of contributing to a diverse array of projects, spanning the creation of responsive front-end interfaces to the construction of resilient and scalable back-end systems. My commitment to excellence drives me to remain at the forefront of emerging technologies and industry best practices, ensuring the consistent delivery of top-notch solutions.
 
 <!--
 **Udit-UD/Udit-UD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
